@@ -59,7 +59,7 @@ h5 {
 
 .footer-link {
     color: white !important;
- }
+}
 
  .footer-item:hover {
     transform: scale(1.25);
@@ -70,8 +70,9 @@ h5 {
  }
   
  .btn-link {
-     color: white;
+     color: white !important;
  }
  .btn-link:hover {
      transform: scale(1.25);
+     color: white !important;
  }
