@@ -1,0 +1,77 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    color: white;
+}
+
+h5 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to top, #bdbdba, #6b6b6b, #000000);
+    color: white;
+}
+
+.jumbotron img:hover {
+    transform: scale(1.25);
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-image: linear-gradient(to bottom, #bdbdba, #6b6b6b, #080808);
+    color: white;
+}
+
+.navbar-brand img:hover {
+    transform: scale(1.25);
+}
+
+.nav-item:hover {
+    transform: scale(1.25);
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#loginButton .fa-sign-in:hover {
+    transform: scale(1.25);
+}
+
+.site-footer {
+    background-image: linear-gradient(black, #bdbdba);
+    padding: 20px, 0;
+ }
+
+.footer-link {
+    color: white !important;
+ }
+
+ .footer-item:hover {
+    transform: scale(1.25);
+ }
+
+ .btn-social-icon:hover {
+     transform: scale(1.25);
+ }
+  
+ .btn-link {
+     color: white;
+ }
+ .btn-link:hover {
+     transform: scale(1.25);
+ }

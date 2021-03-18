@@ -1,0 +1,20 @@
+$color-primary: #ffffff;
+$color-secondary: #ddd237;
+$color-pale: #CEC8FF;
+$color-mid: #901CAD;
+$color-dark: #f50909;
+$color-black-transparent: rgba(0, 0, 0, 0.5);
+$color-teal: #17A2B8;
+$body-font: "Open Sans", sans-serif;
+$header-font: "Lobster", cursive;
+
+
+
+
+.jumbotron{
+    margin: 0;
+    padding:30px;
+    background-image: linear-gradient(to right, $color-secondary,
+    $color-primary, $color-dark);
+    color: white;
+}
